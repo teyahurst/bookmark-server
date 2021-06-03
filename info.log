@@ -1,0 +1,11 @@
+{"message":"Unauthorized request to path /list","level":"error"}
+{"message":"Unauthorized request to path /list","level":"error"}
+{"message":"Unauthorized request to path /list","level":"error"}
+{"message":"Unauthorized request to path /bookmarks","level":"error"}
+{"message":"Invalid rating 'undefined' given","level":"error"}
+{"message":"Unauthorized request to path /bookmarks","level":"error"}
+{"message":"Invalid rating 'undefined' given","level":"error"}
+{"message":"Unauthorized request to path /bookmarks","level":"error"}
+{"message":"Invalid rating 'undefined' given","level":"error"}
+{"message":"Unauthorized request to path /bookmarks","level":"error"}
+{"message":"Bookmark with id 02a5da85-8cc2-449a-87a2-e379da4e47c4 created","level":"info"}
